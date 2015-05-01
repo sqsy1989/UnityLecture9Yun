@@ -9,6 +9,7 @@ public class Scoremanger : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		//add some comment
 		text = GetComponent<Text> ();
 		score = 0;
 
