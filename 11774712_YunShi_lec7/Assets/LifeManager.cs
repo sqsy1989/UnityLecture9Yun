@@ -8,6 +8,7 @@ public class LifeManager : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
+		//add more comments
 		text = GetComponent<Text> ();
 		lives=3;
 		
